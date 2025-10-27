@@ -23,4 +23,6 @@ setup.cfg
 Makefile
 
 .*
-README.md
+
+*.xml
+*.db
